@@ -37,7 +37,7 @@ import Close from "@mui/icons-material/Close";
 import CalendarToday from "@mui/icons-material/CalendarToday";
 import Create from "@mui/icons-material/Create";
 
-import { appointments } from "../../../demo-data/appointments";
+import { appointments } from "./demo-data/appointments";
 
 const PREFIX = "Demo";
 // #FOLD_BLOCK
